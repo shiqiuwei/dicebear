@@ -12,6 +12,8 @@
   <img src="https://api.dicebear.com/6.x/initials/svg?seed=..&backgroundColor=ade8f4&radius=10" width="64" />
 </p>
 
+**English** | [中文](./README.zh-CN.md)
+
 With DiceBear you can create awesome avatars for your project in no time.
 Whether you are looking for abstract shapes or lovingly designed characters, you
 will find something suitable among our avatar styles. And no matter how and for
